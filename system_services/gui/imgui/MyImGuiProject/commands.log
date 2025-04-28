@@ -1,0 +1,4 @@
+glxinfo #gives you the info about open gl in your system
+glxinfo " grep "version" # shows the version of OpenGL
+lspci -v # shows the type of the video card installed
+apt search libsdl2 # shows if you have the SDL2 library

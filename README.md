@@ -28,3 +28,22 @@ This project combines:
 ## Folder Structure
 Here’s a brief outline of the folder structure used in this project:
 
+C._O._S.  (Root Directory)       #You might see cosenv
+│
+├── CODE_OF_CONDUCT.md           # Guidelines for project behavior
+├── CONTRIBUTING.md              # Contribution guidelines
+├── DEDICATION.md                # Project dedication
+├── LICENSE.md                   # Licensing information
+├── LICENSE/                     # License related files or submodules
+├── REQUIREMENTS.md              # Project requirements
+│
+├── applications/                # Application code and modules
+├── bootloader/                  # Bootloader files
+├── financial_system/            # Financial system related code
+├── kernel/                      # Operating system kernel code
+├── resources/                   # Resources like images, fonts, etc.
+├── scripts/                     # Automation and setup scripts
+├── server/                      # Backend server-side code
+├── system_services/             # System services
+├── test/                        # Unit tests and other tests
+├── web/                         # Frontend (web) files (HTML, CSS, JS)
