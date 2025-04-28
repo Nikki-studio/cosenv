@@ -1,3 +1,4 @@
+#cosenv
 # Humanity Financial Trust Project
 
 ## Dedication
