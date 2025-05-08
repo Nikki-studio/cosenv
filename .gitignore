@@ -1,0 +1,26 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore VSCode settings folder
+.vscode/
+
+# Ignore build directories and files
+build/
+bin/
+obj/
+
+# Ignore log files
+*.log
+
+# Ignore IDE or editor files
+.idea/
+.vscode/
